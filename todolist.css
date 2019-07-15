@@ -1,0 +1,41 @@
+/*font-family: 'Dancing Script', cursive;
+font-family: 'Special Elite', cursive;*/
+body{
+	background: url(https://previews.123rf.com/images/apostrophe/apostrophe1411/apostrophe141100013/33175538-abstract-paper-geometric-shapes-background-texture.jpg);
+}
+h1{
+	font-size: 4rem;
+	text-align: center;
+	font-family: 'Rubik Mono One', sans-serif;
+	margin-top: 20px;
+}
+h1:hover{
+	color: rgb(42,4,234);
+}
+.container{
+	width:600px;
+	margin: 0 auto;
+}
+li:hover{
+	background: #007bff;
+}
+button{
+	border:0;
+	background: transparent;
+	color: white;
+	float: right; 
+}
+#entry{
+	border:0;
+	height: 50px;
+	padding:20px;
+}
+span{
+	color:orange;
+}
+.completed{
+	text-decoration: line-through;
+}
+#heading{
+	text-decoration: none;
+}
